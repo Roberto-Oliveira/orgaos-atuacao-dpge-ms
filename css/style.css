@@ -64,6 +64,7 @@
 
 .css-treeview label {
     background-position: 18px 5px;
+    text-transform: uppercase;
 }
 
 .css-treeview label::before {
@@ -108,4 +109,9 @@ label {
 
 .destakdo {
     font-weight: bold;
+    text-transform: inherit;
+}
+
+p {
+    margin: 0 0 0 0;
 }
